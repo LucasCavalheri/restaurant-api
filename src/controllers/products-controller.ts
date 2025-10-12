@@ -1,4 +1,4 @@
-import { NextFunction, Request, Response } from 'express'
+import { Request, Response, NextFunction } from 'express'
 
 export class ProductsController {
   async index(req: Request, res: Response, next: NextFunction) {
