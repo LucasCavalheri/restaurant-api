@@ -120,7 +120,11 @@ src/
 4. **Fazer Pedidos** - Registrar os itens consumidos
 5. **Fechar Sessão** - Quando os clientes forem pagar a conta
 
-## 📝 Licença
+## 📝 Documentação
+
+A documentação das rotas da API está disponível através do Postman ou Insomnia. Importe a coleção disponível em [documentacao](documentacao).
+
+## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 

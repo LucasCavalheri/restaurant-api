@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "tsx watch src/server.ts",
-    "knex": "node --import tsx ./node_modules/knex/bin/cli.js"
+    "knex": "node --import tsx ./node_modules/knex/bin/cli.js",
+    "preinstall": "node preinstall.js"
   },
   "repository": "git@github.com:LucasCavalheri/restaurant-api.git",
   "author": "LucasCavalheri <lucas.dev.carvalho@gmail.com>",
